@@ -34,7 +34,7 @@ echo "$prompt"
 
 # 定义请求 URL 和请求数据
 APP_ID="f24d39cef70f42e5bfdd66df1c24485c"
-API_KEY="sk-af2f1bc2f70f434091558573e6e766df"
+API_KEY="sk-7ca572acd89f47228771435077beac75"
 URL="https://dashscope.aliyuncs.com/api/v1/apps/${APP_ID}/completion"
 
 DATA=$(cat <<EOF
